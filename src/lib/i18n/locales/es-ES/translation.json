@@ -541,7 +541,7 @@
 	"Leave empty to include all models from \"{{URL}}/api/tags\" endpoint": "",
 	"Leave empty to include all models from \"{{URL}}/models\" endpoint": "",
 	"Leave empty to include all models or select specific models": "",
-	"Leave empty to use the default prompt, or enter a custom prompt": "Deje vacío para usar el propmt predeterminado, o ingrese un propmt personalizado",
+	"Leave empty to use the default prompt, or enter a custom prompt": "Deje vacío para usar el prompt predeterminado, o ingrese un propmt personalizado",
 	"Light": "Claro",
 	"Listening...": "Escuchando...",
 	"LLMs can make mistakes. Verify important information.": "Los LLM pueden cometer errores. Verifica la información importante.",
